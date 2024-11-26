@@ -1,0 +1,22 @@
+div {
+    text-align: center;
+}
+h1 {
+    font-size: 80px;
+    font-family: Impact;
+}
+p {
+    font-size: 35px;
+}
+button {
+    padding:20px 35px;
+    background-color: rgb(43, 134, 43);
+    color: white;
+    border:none;
+    border-radius: 10px;
+}
+button:hover {
+    background-color: #8c81e5;
+    cursor:pointer;
+}
+
